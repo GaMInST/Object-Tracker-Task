@@ -11,7 +11,6 @@ Key features:
 - User-driven object selection for focused tracking
 - Persistent object IDs and visual trails
 - GPU acceleration (CUDA required)
-- Modular, clean codebase for easy extension
 
 ## Requirements
 
